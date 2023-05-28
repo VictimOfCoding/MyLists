@@ -1,0 +1,52 @@
+# приховані сайти
+*://*.4pda.to/*
+*://*.anilibria.tv/*
+*://*.animevost.org/*
+*://*.anivisual.net/*
+*://*.cyclowiki.org/*
+*://*.doramatv.live/*
+*://*.findanime.net/*
+*://*.habr.com/*
+*://*.ixbt.com/*
+*://*.ixbt.games/*
+*://*.joyreactor.cc/*
+*://*.lurkmore.to/*
+*://*.mangalib.me/*
+*://*.neolurk.org/*
+*://*.reactor.cc/*
+*://*.readmanga.live/*
+*://*.rezka.ag/*
+*://*.ru/*
+*://*.ru.m.wikipedia.org/*
+*://*.ru.wikipedia.org/*
+*://*.ru.wiktionary.org/*
+*://*.russianfood.com/*
+*://*.shikimori.me/*
+*://*.su/*
+*://*.tass.com/*
+*://*.vk.com/*
+
+# бажані сайти
+@1*://*.anitube.in.ua/*
+@1*://*.hurtom.com/*
+@1*://*.manga.in.ua/*
+@1*://*.mangaupdates.com/*
+@1*://*.manifest.in.ua/*
+@1*://*.myanimelist.net/*
+@1*://*.toloka.to/*
+@1*://*.tydyvy.com/*
+@1*://*.uk.m.wikipedia.org/*
+@1*://*.uk.wikipedia.org/*
+
+# сайти з підмоченою репутацією
+@2*://*.highload.today/*
+@2*://*.itc.ua/*
+@2*://*.mc.today/*
+@2*://*.patreon.com/*
+@2*://*.pinterest.com/*
+@2*://*.twitter.com/*
+
+# https://addons.mozilla.org/uk/firefox/addon/ublacklist/
+# Альтернативи
+# https://addons.mozilla.org/uk/firefox/addon/g-search-filter/
+# https://addons.mozilla.org/uk/firefox/addon/personal-blocklist/
