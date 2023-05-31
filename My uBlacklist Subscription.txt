@@ -3,6 +3,7 @@
 *://*.anilibria.tv/*
 *://*.animevost.org/*
 *://*.anivisual.net/*
+*://*.boosty.to/*
 *://*.cyclowiki.org/*
 *://*.doramatv.live/*
 *://*.findanime.net/*
@@ -12,7 +13,9 @@
 *://*.joyreactor.cc/*
 *://*.lurkmore.to/*
 *://*.mangalib.me/*
+*://*.my.com/*
 *://*.neolurk.org/*
+*://*.pornolab.net/*
 *://*.reactor.cc/*
 *://*.readmanga.live/*
 *://*.rezka.ag/*
@@ -21,6 +24,7 @@
 *://*.ru.wikipedia.org/*
 *://*.ru.wiktionary.org/*
 *://*.russianfood.com/*
+*://*.rutracker.org/*
 *://*.shikimori.me/*
 *://*.su/*
 *://*.tass.com/*
