@@ -1,11 +1,16 @@
 # приховані сайти
 *://*.4pda.to/*
+*://*.allll.net/*
 *://*.anilibria.tv/*
+*://*.animego.org/*
+*://*.animerus.xyz/*
 *://*.animevost.org/*
+*://*.anistar.org/*
 *://*.anivisual.net/*
 *://*.boosty.to/*
 *://*.cyclowiki.org/*
 *://*.doramatv.live/*
+*://*.ficbook.net/*
 *://*.findanime.net/*
 *://*.habr.com/*
 *://*.ixbt.com/*
