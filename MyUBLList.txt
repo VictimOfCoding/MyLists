@@ -12,12 +12,17 @@
 *://*.doramatv.live/*
 *://*.ficbook.net/*
 *://*.findanime.net/*
+*://*.grouple.co/*
 *://*.habr.com/*
 *://*.ixbt.com/*
 *://*.ixbt.games/*
 *://*.joyreactor.cc/*
+*://*.koro.life/*
+*://*.librebook.me/*
 *://*.lurkmore.to/*
 *://*.mangalib.me/*
+*://*.mintmanga.live/*
+*://*.mose.live/*
 *://*.my.com/*
 *://*.neolurk.org/*
 *://*.pornolab.net/*
@@ -30,10 +35,13 @@
 *://*.ru.wiktionary.org/*
 *://*.russianfood.com/*
 *://*.rutracker.org/*
+*://*.selflib.me/*
+*://*.selfmanga.live/*
 *://*.shikimori.me/*
 *://*.su/*
 *://*.tass.com/*
 *://*.vk.com/*
+*://*.yandex.com/*
 
 # бажані сайти
 @1*://*.anitube.in.ua/*
