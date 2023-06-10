@@ -18,6 +18,7 @@
 *://*.ixbt.games/*
 *://*.joyreactor.cc/*
 *://*.koro.life/*
+*://*.krasavica.info/*
 *://*.librebook.me/*
 *://*.lurkmore.to/*
 *://*.mangalib.me/*
@@ -38,10 +39,28 @@
 *://*.selflib.me/*
 *://*.selfmanga.live/*
 *://*.shikimori.me/*
+*://*.shikimori.one/*
 *://*.su/*
 *://*.tass.com/*
 *://*.vk.com/*
+*://*.yandex.az/*
+*://*.yandex.by/*
+*://*.yandex.co.il/*
 *://*.yandex.com/*
+*://*.yandex.com.am/*
+*://*.yandex.com.ge/*
+*://*.yandex.com.tr/*
+*://*.yandex.ee/*
+*://*.yandex.fr/*
+*://*.yandex.kz/*
+*://*.yandex.lt/*
+*://*.yandex.lv/*
+*://*.yandex.md/*
+*://*.yandex.ru/*
+*://*.yandex.tj/*
+*://*.yandex.tm/*
+*://*.yandex.ua/*
+*://*.yandex.uz/*
 
 # бажані сайти
 @1*://*.anitube.in.ua/*
