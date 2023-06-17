@@ -8,8 +8,10 @@
 *://*.anistar.org/*
 *://*.anivisual.net/*
 *://*.boosty.to/*
+*://*.cookreactor.com/*
 *://*.cyclowiki.org/*
 *://*.doramatv.live/*
+*://*.fapreactor.com/*
 *://*.ficbook.net/*
 *://*.findanime.net/*
 *://*.grouple.co/*
@@ -17,6 +19,7 @@
 *://*.ixbt.com/*
 *://*.ixbt.games/*
 *://*.joyreactor.cc/*
+*://*.joyreactor.com/*
 *://*.koro.life/*
 *://*.krasavica.info/*
 *://*.librebook.me/*
@@ -28,6 +31,7 @@
 *://*.my.com/*
 *://*.neolurk.org/*
 *://*.pornolab.net/*
+*://*.pornreactor.cc/*
 *://*.reactor.cc/*
 *://*.readmanga.live/*
 *://*.rezka.ag/*
@@ -37,12 +41,14 @@
 *://*.ru.wiktionary.org/*
 *://*.russianfood.com/*
 *://*.rutracker.org/*
+*://*.safereactor.cc/*
 *://*.selflib.me/*
 *://*.selfmanga.live/*
 *://*.shikimori.me/*
 *://*.shikimori.one/*
 *://*.su/*
 *://*.tass.com/*
+*://*.thatpervert.com/*
 *://*.vk.com/*
 *://*.yandex.az/*
 *://*.yandex.by/*
