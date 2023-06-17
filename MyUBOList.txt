@@ -1,5 +1,5 @@
 ! Title: MyUBOList
-! Version: 2023.06.06.1
+! Version: 2023.06.17.2
 ! Expires: 1 day
 
 ! цілі сайти
@@ -26,6 +26,7 @@
 ||librebook.me^
 ||lurkmore.to^
 ||mangalib.me^
+||meduza.io^
 ||mintmanga.live^
 ||mose.live^
 ||my.com^
