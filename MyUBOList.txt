@@ -55,6 +55,7 @@
 ||yandex.com.ge^
 ||yandex.com.tr^
 ||yandex.ee^
+||yandex.eu^
 ||yandex.fr^
 ||yandex.kz^
 ||yandex.lt^
