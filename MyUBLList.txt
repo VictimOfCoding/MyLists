@@ -22,6 +22,7 @@
 *://*.librebook.me/*
 *://*.lurkmore.to/*
 *://*.mangalib.me/*
+*://*.meduza.io/*
 *://*.mintmanga.live/*
 *://*.mose.live/*
 *://*.my.com/*
