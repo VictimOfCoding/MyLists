@@ -11,6 +11,7 @@
 *://*.cookreactor.com/*
 *://*.cyclowiki.org/*
 *://*.doramatv.live/*
+*://*.dota2.net/*
 *://*.fapreactor.com/*
 *://*.ficbook.net/*
 *://*.findanime.net/*
