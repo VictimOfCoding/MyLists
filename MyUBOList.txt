@@ -90,3 +90,5 @@ reddit.com###redesign-beta-optin-btn
 
 ! https://addons.mozilla.org/uk/firefox/addon/ublock-origin/
 ! https://filterlists.com
+! https://letsblock.it
+! https://rentry.co/FilterStalker
